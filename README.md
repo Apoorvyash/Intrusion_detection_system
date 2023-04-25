@@ -34,6 +34,9 @@ Additionally, our method demonstrates robustness in managing
 a range of assault situations. Further research can be conducted
 to investigate the scalability, generalizability, and applicability of
 our approach to other real-world network security datasets
+# Complete Flowchart
+![intern_flow](https://user-images.githubusercontent.com/96018168/234260670-5490c3e8-ffb9-4fba-9a8e-1c85130d64e6.png)
+
 # Results
 ![WhatsApp Image 2023-04-14 at 18 48 36](https://user-images.githubusercontent.com/96018168/234259923-efdd6b93-1693-4be9-8c13-09e9056b0541.jpeg)
 
