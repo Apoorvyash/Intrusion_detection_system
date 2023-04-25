@@ -11,7 +11,11 @@ false positive and false negative rates. Hence, to improve the
 precision and efficacy of IDS, new machine learning approaches
 are required.
 In this study, we provide an improved intrusion detection
-strategy that makes use of outlier identification with Isolation
+strategy that makes use of RobustScaler, which is a much efficient than other Scaler like MinMaxScaler, it
+is less affected by outliers than other scaling techniques. By
+using RobustScaler, machine learning models can be trained
+on more robust and reliable data, leading to better performance
+and accuracyoutlier identification with Isolation
 Forest and Edited Nearest Neighbor (ENN). Isolation Forest is
 an ensemble-based approach for detecting anomalies that can
 isolate outliers into their own trees in order to find them in
